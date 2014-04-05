@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		927FB4D118EF9CD800E4CE64 /* jQuery.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jQuery.js; sourceTree = "<group>"; };
+		927FB4D218EF9D3800E4CE64 /* style.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		927FB4D318EF9DC200E4CE64 /* main.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
 		92B0CFAD18EF98B800368204 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -22,6 +25,9 @@
 			isa = PBXGroup;
 			children = (
 				92B0CFAD18EF98B800368204 /* index.html */,
+				927FB4D318EF9DC200E4CE64 /* main.js */,
+				927FB4D218EF9D3800E4CE64 /* style.css */,
+				927FB4D118EF9CD800E4CE64 /* jQuery.js */,
 			);
 			path = Cashiers;
 			sourceTree = "<group>";
@@ -176,6 +182,7 @@
 				92B0CFB218EF98B800368204 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
