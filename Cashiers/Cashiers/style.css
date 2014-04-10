@@ -35,6 +35,7 @@ body {
     position: fixed;
     width: 100%;
     border-bottom: 1px gray solid;
+    top: 0;
 }
 
 .button {
@@ -50,4 +51,16 @@ body {
 .button.right-align {
     float: right;
     margin-right: 12px;
+}
+
+.hidden {
+    display: none;
+}
+
+#content {
+    padding: 12px 12px 12px 12px;
+}
+
+.gray {
+    color: gray;
 }
